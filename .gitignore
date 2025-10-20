@@ -1,0 +1,7 @@
+venv/
+artifacts/
+logs/
+myenv
+mlruns/
+research/
+.env

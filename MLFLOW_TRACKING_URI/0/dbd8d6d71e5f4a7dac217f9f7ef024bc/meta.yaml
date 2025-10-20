@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dango/OneDrive/Desktop/mowingestimator/MLFLOW_TRACKING_URI/0/dbd8d6d71e5f4a7dac217f9f7ef024bc/artifacts
+end_time: 1760996910562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbd8d6d71e5f4a7dac217f9f7ef024bc
+run_name: silent-bear-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760996903394
+status: 4
+tags: []
+user_id: MLFLOW_TRACKING_USERNAME

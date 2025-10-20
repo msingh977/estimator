@@ -1,0 +1,6 @@
+COLUMNS:
+  Area: int64
+  Amount: int64
+
+TARGET_COLUMN:
+  name: Amount
