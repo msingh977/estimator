@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/dango/OneDrive/Desktop/mowingestimator/MLFLOW_TRACKING_URI/0/models/m-554444b2e8044f0e8d69c6101c9d9bad/artifacts
+creation_timestamp: 1760998669074
+experiment_id: '0'
+last_updated_timestamp: 1760998679123
+model_id: m-554444b2e8044f0e8d69c6101c9d9bad
+model_type: null
+name: model
+source_run_id: 7b9a5e5a19a04bdca31fd8b3438d3e6b
+status: 2
+status_message: null

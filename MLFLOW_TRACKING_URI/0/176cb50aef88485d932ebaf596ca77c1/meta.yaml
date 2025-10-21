@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dango/OneDrive/Desktop/mowingestimator/MLFLOW_TRACKING_URI/0/176cb50aef88485d932ebaf596ca77c1/artifacts
+end_time: 1760999278095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 176cb50aef88485d932ebaf596ca77c1
+run_name: languid-skunk-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760999269795
+status: 4
+tags: []
+user_id: MLFLOW_TRACKING_USERNAME

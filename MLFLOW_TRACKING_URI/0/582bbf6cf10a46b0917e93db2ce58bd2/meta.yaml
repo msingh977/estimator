@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dango/OneDrive/Desktop/mowingestimator/MLFLOW_TRACKING_URI/0/582bbf6cf10a46b0917e93db2ce58bd2/artifacts
+end_time: 1760998939308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 582bbf6cf10a46b0917e93db2ce58bd2
+run_name: intrigued-owl-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760998930988
+status: 4
+tags: []
+user_id: MLFLOW_TRACKING_USERNAME

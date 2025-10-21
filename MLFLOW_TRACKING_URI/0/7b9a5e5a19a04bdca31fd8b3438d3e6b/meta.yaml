@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dango/OneDrive/Desktop/mowingestimator/MLFLOW_TRACKING_URI/0/7b9a5e5a19a04bdca31fd8b3438d3e6b/artifacts
+end_time: 1760998679588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b9a5e5a19a04bdca31fd8b3438d3e6b
+run_name: respected-deer-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760998668692
+status: 4
+tags: []
+user_id: MLFLOW_TRACKING_USERNAME

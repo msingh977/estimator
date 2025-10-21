@@ -11,9 +11,9 @@ from src.mowingEstimator.entity import ModelEvaluationConfig
 from src.mowingEstimator.constants import *
 from src.mowingEstimator.utils.common import read_yaml, create_directories, save_json
 
-os.environ["MLFLOW_TRACKING_URI"]="MLFLOW_TRACKING_URI"
-os.environ["MLFLOW_TRACKING_USERNAME"]="MLFLOW_TRACKING_USERNAME"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="MLFLOW_TRACKING_PASSWORD"
+#os.environ["MLFLOW_TRACKING_URI"]="MLFLOW_TRACKING_URI"
+#os.environ["MLFLOW_TRACKING_USERNAME"]="MLFLOW_TRACKING_USERNAME"
+#os.environ["MLFLOW_TRACKING_PASSWORD"]="MLFLOW_TRACKING_PASSWORD"
 
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
